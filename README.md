@@ -42,6 +42,9 @@ npm install
 PORT=5000
 MONGO_URI=mongodb://127.0.0.1:27017/node_with_mongodb
 npm run dev
+<img width="1407" height="661" alt="image" src="https://github.com/user-attachments/assets/95349f9f-451c-44ec-b3aa-40d8b16574fc" />
+<img width="1751" height="716" alt="image" src="https://github.com/user-attachments/assets/7c89dc22-1c81-4621-91c1-27600ba20eed" />
+
 
 
 
