@@ -1,3 +1,6 @@
+<img width="1760" height="467" alt="image" src="https://github.com/user-attachments/assets/94ccf035-0945-4a9d-b099-4e18017bc1e9" />
+<img width="1486" height="655" alt="image" src="https://github.com/user-attachments/assets/ea29f604-d46c-4f24-b013-f1660f7ed6cc" />
+<img width="1546" height="697" alt="image" src="https://github.com/user-attachments/assets/ea2aaffc-2b63-4a0d-a8b1-9fed279529d6" />
 # 🚀 Node.js + Express + MongoDB + EJS (MVC CRUD App)
 
 A modern **CRUD application** built using **Node.js**, **Express.js**, **MongoDB**, and **EJS**.  
@@ -38,11 +41,6 @@ npm install
 PORT=5000
 MONGO_URI=mongodb://127.0.0.1:27017/node_with_mongodb
 npm run dev
-<img width="1760" height="467" alt="image" src="https://github.com/user-attachments/assets/94ccf035-0945-4a9d-b099-4e18017bc1e9" />
-<img width="1486" height="655" alt="image" src="https://github.com/user-attachments/assets/ea29f604-d46c-4f24-b013-f1660f7ed6cc" />
-<img width="1546" height="697" alt="image" src="https://github.com/user-attachments/assets/ea2aaffc-2b63-4a0d-a8b1-9fed279529d6" />
-
-
 
 │-- main.js # App entry point
 │-- package.json
